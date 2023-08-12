@@ -1,7 +1,7 @@
 ---
 title: "Incoxpense"
 excerpt: "Simplify Your Finances with INCOXPENSE: Track, Manage, Thrive."
-collection: project
+collection: projects
 ---
 
 INCOXPENSE - Income-Expense Application
