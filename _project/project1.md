@@ -1,6 +1,6 @@
 ---
 title: "Incoxpense"
-excerpt: "Simplify Your Finances with INCOXPENSE: Track, Manage, Thrive."
+excerpt: "Simplify Your Finances with INCOXPENSE: Track, Manage, Thrive. <br/><img src='/images/incoxpense.png'>"
 collection: projects
 ---
 
