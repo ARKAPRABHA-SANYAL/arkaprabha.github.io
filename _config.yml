@@ -82,9 +82,10 @@ analytics:
 author:
   name             : "Arkaprabha Sanyal"
   avatar           : "profile.png"
-  bio: >
+  bio              : |
   4th year EE undergrad
   Jadavpur University
+
 
   location         : 
   employer         :
