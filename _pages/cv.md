@@ -10,6 +10,7 @@ redirect_from:
 {% include base_path %}
 
 [My Resume](https://drive.google.com/drive/u/1/folders/1NEU_Z6vpkh-ye4Y4xzCVM2loX1rjqQEF)
+
 General Information
 ======
 * Name - Arkaprabha Sanyal
