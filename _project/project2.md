@@ -1,6 +1,6 @@
 ---
 title: "Wanderly"
-excerpt: "Wanderly - Your gateway to seamless travel experiences, offering a platform to list, explore, and book unique stays worldwide.<br/><img src='arkaprabhasanyal.github.io/images/wanderly.png'>"
+excerpt: "Wanderly - Your gateway to seamless travel experiences, offering a platform to list, explore, and book unique stays worldwide."
 collection: projects
 ---
 
