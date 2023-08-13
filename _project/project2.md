@@ -1,6 +1,6 @@
----
+![image](https://github.com/ARKAPRABHA-SANYAL/arkaprabhasanyal.github.io/assets/132127676/523592c3-9a9d-4119-89bd-d7bacdd3fdad)---
 title: "Wanderly"
-excerpt: "Wanderly - Your gateway to seamless travel experiences, offering a platform to list, explore, and book unique stays worldwide."
+excerpt: "Wanderly - Your gateway to seamless travel experiences, offering a platform to list, explore, and book unique stays worldwide.<br/><img src='/arkaprabhasanyal.github.io/images/wanderly.png'>"
 collection: projects
 ---
 
