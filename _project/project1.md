@@ -1,6 +1,6 @@
 ---
 title: "Incoxpense"
-excerpt: "Simplify Your Finances with INCOXPENSE: Track, Manage, Thrive.<br/><img src='/images/500x300.png'>"
+excerpt: "Simplify Your Finances with INCOXPENSE: Track, Manage, Thrive.<br/><img src='/arkaprabhasanyal.github.io/images/incoxpense.png'>"
 collection: projects
 ---
 
