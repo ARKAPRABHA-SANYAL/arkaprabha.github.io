@@ -11,7 +11,7 @@ title                    : "Arkaprabha Sanyal"
 title_separator          : "-"
 name                     : &name "Arkaprabha Sanyal"
 description              : &description "personal description"
-url                      : https://arkaprabha-sanyal.github.io/arkaprabhasanyal.github.io/
+url                      : https://arkaprabha-sanyal.github.io/arkaprabha.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ARKAPRABHA-SANYAL/arkaprabhasanyal.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
