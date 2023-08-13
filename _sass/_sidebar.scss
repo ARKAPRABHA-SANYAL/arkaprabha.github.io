@@ -83,9 +83,15 @@
     width: auto;
     height: auto;
   }
+   .author__avatar img {
+  max-width: 100%; /* Ensure the image doesn't exceed the container */
+  max-height: 100%; /* Ensure the image doesn't exceed the container */
+  width: auto; /* Allow the width to adjust based on the aspect ratio */
+  height: auto; /* Allow the height to adjust based on the aspect ratio */
+  border-radius: 50%; /* Make the image circular */
+}
 
-  img {
-    max-width: 175px;
+ 
     
 
     @include breakpoint($large) {
